@@ -1,0 +1,154 @@
+group,path,status
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\bina48.png,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\erica.jpg,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\geminoid H1-4.jpg,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\han.png,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\jiajia.png,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\kaspar.jpg,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\kodomoroid.jpg,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\nadine.png,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\otonaroid.jpg,no_face_after_preprocess
+uncanny,C:\Users\maryc\Downloads\881project\uncannyrobot\sophia.png,no_face_after_preprocess
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\albert einstein hubo.png,no_face_after_preprocess
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\alter.png,no_face_after_preprocess
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\cb2.png,no_face
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\furhat.png,no_face
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\kengoro.png,no_face_after_preprocess
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\kojiro.png,no_face_after_preprocess
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\milo.png,no_face_after_preprocess
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\romeo.png,no_face_after_preprocess
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\seer.png,no_face
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\topio.png,no_face_after_preprocess
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\waseda flutist.png,no_face
+stylized,C:\Users\maryc\Downloads\881project\stylishedrobot\zeno.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_261.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_126.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_105.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_35.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_167.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_16.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_155.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_133.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_34.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_124.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_270.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_96.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_78.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_234.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_120.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_245.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_202.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_107.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_106.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_121.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_153.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_157.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_221.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_251.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_97.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_238.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_148.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_29.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_264.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_278.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_85.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_201.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_154.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_208.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_244.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_168.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_57.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_100.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_41.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_55.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_138.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_277.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_82.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_182.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_63.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_137.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_86.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_42.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_181.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_89.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_79.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_191.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_122.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_186.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_183.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_75.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_164.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_11.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_32.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_210.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_229.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_129.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_190.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_118.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_236.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_171.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_258.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_256.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_187.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_241.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_147.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_115.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_39.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_267.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_156.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_170.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_31.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_77.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_123.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_44.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_53.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_21.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_260.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_188.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_139.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_189.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_185.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_151.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_165.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_116.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_253.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_141.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_228.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_94.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_262.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_211.png,no_face_after_preprocess
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_272.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_166.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_237.png,no_face
+human_conventional,C:\Users\maryc\Downloads\881project\conventionalfaces\human_66.png,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download (1).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download (2).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download (3).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download (4).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download (5).jpg,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download (6).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download (7).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download (8).jpg,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\download.jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (1).jpg,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (10).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (11).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (2).jpg,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (3).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (4).jpg,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (5).jpg,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (6).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (7).jpg,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (8).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images (9).jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\images.jpg,ok
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\ss4.PNG,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\ss5.PNG,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\ss6.PNG,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\ss7.PNG,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\ss8.PNG,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\ss9.PNG,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\st1.PNG,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\stroke-face.jpg,no_face
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\ts-rich-190.jpg,no_face_after_preprocess
+human_unconventional,C:\Users\maryc\Downloads\881project\unconventionalfaces\v2.PNG,no_face
